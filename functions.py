@@ -1,6 +1,6 @@
 """
-    Make sure these libraries are installed on your system. See the requirements.txt file for a list of dependecies.
-    You can install them with "pip install -r requirements.txt"
+    Make sure these libraries and jupyter notebook are installed on your system.
+    See the requirements.txt file for a list of dependecies. You can install them with "pip install -r requirements.txt"
 """
 import os
 import pandas as pd
