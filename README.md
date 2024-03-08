@@ -3,7 +3,7 @@ This is the code base for my bachelors thesis on "Investigation of the Role of S
 
 Installation:
 1. Make sure you have a python interpreter, pip and the jupyter package installed on your system.
-2. To install the needed libraries and depencies. You can do so by executing pip install -r requirements.txt
+2. To install the needed libraries and dependencies. You can do so by executing "pip install -r requirements.txt"
 3. Run the Jupyter notebook russian_noun_analysis.ipynb to download the model and generate all outputs and plots
 
 Issue handling:
